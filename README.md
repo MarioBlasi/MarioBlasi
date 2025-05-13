@@ -118,13 +118,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioBlasi&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" style="border: 5px solid #333; border-radius: 15px;" />
 </p>
 
----
-
-### 🚀 Streaks & Contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioBlasi&theme=tokyonight" alt="GitHub Streak" style="border: 5px solid #333; border-radius: 15px;" />
-</p>
 
 ---
 
