@@ -4,8 +4,10 @@
   💻 Fullstack Web Developer | Based in London 🇬🇧<br>
   Crafting fast, modern, and responsive web applications.
 </p>
+<p align="center">
+  🏦 Working at Inix Group
+</p>
 
----
 
 <h2 align="center">🧠 Tech Stack</h2>
 
